@@ -1,3 +1,5 @@
+<img width="653" alt="image" src="https://github.com/user-attachments/assets/885f5111-8288-4b6d-a43a-797cac8a9465">
+
 # 프로젝트 이름
 - 문서 분류 태스크
 <br>
@@ -22,7 +24,7 @@
 
 - 주 언어 : Python
 - 주 프레임워크 : Pytorch
-- 협업 툴 : Github
+- 협업 툴 : Github, Slack, Zoom
 <br>
 
 ## 2. 채택한 개발 기술
@@ -44,9 +46,11 @@
 - effdet
   - efficientDet 객체 탐지 모델 라이브러리
     
-- efficientnet_pytorch
+- efficientnet_pytorch_b4
   - efficientNet 분류 모델 라이브러리
 
+- ConvNext_tiny
+  - ConvNex_tiny 분류 모델 라이브러리
 
 
 <br>
@@ -100,7 +104,7 @@
   
 <br>
 
-## 5. 프로젝트 후기
+## 6. 프로젝트 후기
 
 ### 이민석
 문서 분류 태스크에서 데이터 분석, 데이터 증강, 모델 구조 선택, 학습, 앙상블 전체를 다루어 볼 수 있어서 좋았습니다.
