@@ -82,7 +82,14 @@
     - 데이터 증강, 분류 모델 구축 및 학습, 실험관리
 <br>
 
-### 팀원 3
+### 김민수
+- **역할**
+    - 프로젝트를 진행하며 맡은 역할 작성
+- **기능**
+    - 프로젝트를 진행하며 개발한 기능 작성
+<br>
+
+### 오승민
 - **역할**
     - 프로젝트를 진행하며 맡은 역할 작성
 - **기능**
@@ -105,22 +112,26 @@
 ## 6. 프로젝트 개요
 ### EDA
 ![image](https://github.com/user-attachments/assets/debde63f-86de-4220-b46a-ff6d5c3cc123)
+
 ![image](https://github.com/user-attachments/assets/96053b27-fa0f-4f71-87cf-2653b039a1db)
+
 ![image](https://github.com/user-attachments/assets/87e631be-5705-4495-ac07-a3a273cd57c4)
 
 ### 데이터 구성
 ![image](https://github.com/user-attachments/assets/0b7917ce-9080-4b46-b3cb-d8f0291e3040)
 
 ### 모델 구성
-*전체 모델 구성*
+**전체 모델 구성**
 ![image](https://github.com/user-attachments/assets/11039b23-e9b9-4b11-bdfd-9e83fd3fc654)
+
 ![image](https://github.com/user-attachments/assets/831aad00-4177-48fb-ac06-2fa624bfbdab)
 
-*모델별 구성*
+**모델별 구성**
 ![image](https://github.com/user-attachments/assets/4a8ba656-e13f-4a66-b3db-6b51af07e45d)
 
-*EfficientNet_b4모델, 손실함수 및 3/4클래스에 대한 online augmentation*
+**EfficientNet_b4모델, 손실함수 및 3/4클래스에 대한 online augmentation**
   ![image](https://github.com/user-attachments/assets/6a0075d6-fb9b-4130-864f-ec8ce947fe6d)
+  
 ### 최종 결과
 ![image](https://github.com/user-attachments/assets/980c77cc-f194-4290-98eb-0dff86fb5d43)
 
@@ -142,8 +153,12 @@
 ### 문수민
 CV 관련 대회는 이번이 처음이었으며, 이번 프로젝트를 통해 다양한 이미지 증강과 처리 방법을 배울 수 있었습니다. 모델 부분에서는 사전 학습된 모델을 활용해 직접 파인튜닝을 진행하며 성능 변화를 확인했습니다. 또한, 여러 모델을 사용하고 앙상블을 적용해 성능 개선을 이루었습니다. 실험 관리 측면에서는 가설을 세우고 결과를 확인하면서, 반복적인 개선을 통해 더 나은 방법을 찾아가는 경험을 할 수 있었습니다.
 
-### 팀원 2
-프로젝트 후기 작성
+### 김민수
+CV 프로젝트를진행하면서많이배웠습니다
+<br>
+
+### 오승민
+CV 관련모델들이정말다양하게있고, 어느특정모델만사용하는 것이아니라진행할프로젝트주제에따라다르게선택할수있다는점이흥미로웠습니다
 <br>
 
 ### 이봉균
