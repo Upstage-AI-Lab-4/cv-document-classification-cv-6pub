@@ -101,10 +101,40 @@
 ### 개발 기간
 - 전체 개발 기간 : 2024-10-28 ~ 2024-11-09
 - 기능 구현 : 2024-11-04 ~ 2024-11-09
-  
+
+## 6. 프로젝트 개요
+### EDA
+![image](https://github.com/user-attachments/assets/debde63f-86de-4220-b46a-ff6d5c3cc123)
+![image](https://github.com/user-attachments/assets/96053b27-fa0f-4f71-87cf-2653b039a1db)
+![image](https://github.com/user-attachments/assets/87e631be-5705-4495-ac07-a3a273cd57c4)
+
+### 데이터 구성
+![image](https://github.com/user-attachments/assets/0b7917ce-9080-4b46-b3cb-d8f0291e3040)
+
+### 모델 구성
+*전체 모델 구성*
+![image](https://github.com/user-attachments/assets/11039b23-e9b9-4b11-bdfd-9e83fd3fc654)
+![image](https://github.com/user-attachments/assets/831aad00-4177-48fb-ac06-2fa624bfbdab)
+
+*모델별 구성*
+![image](https://github.com/user-attachments/assets/4a8ba656-e13f-4a66-b3db-6b51af07e45d)
+
+*EfficientNet_b4모델, 손실함수 및 3/4클래스에 대한 online augmentation*
+  ![image](https://github.com/user-attachments/assets/6a0075d6-fb9b-4130-864f-ec8ce947fe6d)
+### 최종 결과
+![image](https://github.com/user-attachments/assets/980c77cc-f194-4290-98eb-0dff86fb5d43)
+
+## 7. 프로젝트 인사이트
+### OCR을 활용한 클래스 분류
+![image](https://github.com/user-attachments/assets/a87a3a42-dbf5-4f2c-91ae-44a321081409)
+
+### Finetuning을 통한 성능향상 시도
+![image](https://github.com/user-attachments/assets/46381225-c092-4d20-a4a0-366e7e647713)
+
+
 <br>
 
-## 6. 프로젝트 후기
+## 8. 프로젝트 회고
 
 ### 이민석
 문서 분류 태스크에서 데이터 분석, 데이터 증강, 모델 구조 선택, 학습, 앙상블 전체를 다루어 볼 수 있어서 좋았습니다.
