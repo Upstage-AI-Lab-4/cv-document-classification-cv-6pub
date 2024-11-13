@@ -15,7 +15,7 @@
 
 | **팀장** | **팀원 1** | **팀원 2** | **팀원 3** | **팀원 4** |
 | :------: |  :------: | :------: | :------: | :------: |
-|[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> @Github]([https://github.com/misule0423]) |[<img src="https://avatars.githubusercontent.com/u/50396041?v=4" height=150 width=150> <br/> @Github](https://github.com/soomin8442) |[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> @Github](https://github.com/) |[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> @Github](https://github.com/) |[<img src="https://avatars.githubusercontent.com/u/1223020?v=4" height=150 width=150> <br/> @deptno](https://github.com/deptno) |
+|[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> @Github]([https://github.com/misule0423]) |[<img src="https://avatars.githubusercontent.com/u/50396041?v=4" height=150 width=150> <br/> @Github](https://github.com/soomin8442) |[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> @Github](https://github.com/) |[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> @Github](https://github.com/pluto-ai) |[<img src="https://avatars.githubusercontent.com/u/1223020?v=4" height=150 width=150> <br/> @deptno](https://github.com/deptno) |
 </div>
 
 <br>
@@ -158,7 +158,7 @@ CV 프로젝트를진행하면서많이배웠습니다
 <br>
 
 ### 오승민
-CV 관련모델들이정말다양하게있고, 어느특정모델만사용하는 것이아니라진행할프로젝트주제에따라다르게선택할수있다는점이흥미로웠습니다
+CV 관련 모델들이 정말 다양하게 있고, 어느 특정 모델만 사용하는 것이 아니라 진행할 프로젝트 주제에 따라 다르게 선택할 수 있다는 점이 흥미로웠습니다
 <br>
 
 ### 이봉균
